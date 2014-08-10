@@ -1,0 +1,30 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\bin\Debug\21Contador.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\bin\Debug\21Contador.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\obj\x86\Debug\_21Contador.Form1.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\obj\x86\Debug\_21Contador.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\obj\x86\Debug\21Contador.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\21Contador\obj\x86\Debug\21Contador.pdb
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\21Contador.exe
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\21Contador.pdb
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\bin\Debug\21Contador.exe
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\bin\Debug\21Contador.pdb
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.Form1.resources
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.Properties.Resources.resources
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.acercade.resources
+d:\mis documentos\visual studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.changelog.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\21Contador.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\21Contador.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\bin\Debug\21Contador.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\bin\Debug\21Contador.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\21Contador.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.acercade.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.changelog.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.Form1.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\_21Contador.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\21Contador\21Contador\obj\x86\Debug\21Contador.csproj.GenerateResource.Cache
